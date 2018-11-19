@@ -1,0 +1,7 @@
+aws.accesskey=****
+aws.secretkey=****
+aws.poolid=****
+aws.clientid=****
+aws.clientSecret=****
+
+swagger.prefix.url=/
